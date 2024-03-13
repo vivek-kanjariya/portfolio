@@ -1,3 +1,3 @@
 Live at 
 
-https://vivek-kanjariya.github.io/
+http://vivek-kanjariya.github.io/portfolio/
