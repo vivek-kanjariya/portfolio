@@ -1,0 +1,45 @@
+.Contact {
+  height: 110vh;
+  width: 100%;
+  position: relative;
+  top: 17vh;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  overflow-y: auto;
+  margin-bottom: 40px;
+}
+.form {
+  width: 90vw;
+  background-color: white;
+  margin-bottom: 30px;
+}
+#main-form {
+  background-color: white;
+  display: flex;
+  margin: 1.3rem;
+  position: relative;
+  top: 2vh;
+  flex-direction: column;
+  padding: 30px;
+}
+.fo {
+  margin-top: 30px;
+  height: 5rem;
+  padding-left: 20px;
+  font-weight: 800;
+  font-size: 1.3rem;
+  border-radius: 20px;
+}
+#form-btn {
+  background-color: black;
+  padding-left: 0;
+  color: aliceblue;
+  font-size: larger;
+  border-radius: 40px;
+  width: 50vw;
+  float: right;
+}
+#form-describe {
+  height: 20vh;
+}
