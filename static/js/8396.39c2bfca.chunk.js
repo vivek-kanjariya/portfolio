@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkport_app=self.webpackChunkport_app||[]).push([[8396],{8396:(e,a,n)=>{async function p(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{LineDrawer:p}=await n.e(8610).then(n.bind(n,8610));await e.addShape("line",new p,a)}n.d(a,{loadLineShape:()=>p})}}]);
+//# sourceMappingURL=8396.39c2bfca.chunk.js.map
