@@ -43,7 +43,7 @@ function App() {
         <Route path="/Clip" element={<Clip />} />
         <Route path="/Form" element={<Form />} />
         <Route path="/Project" element={<Project />} />
-        <Route path="/*" element={<Notpage />}  />
+        <Route path="*" element={<Home />}  />
       </Routes>
     </div>
   );
